@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Yoda Speak Translator",
+  "name": "Yoda Translator",
   "version": "1.0",
   "description": "Translate text to Yoda-speak.",
   "permissions": ["activeTab"],
